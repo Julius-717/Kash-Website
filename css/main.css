@@ -5,4 +5,5 @@ body{
 
 .container{
     overflow: hidden;
+    margin: auto;
 }
