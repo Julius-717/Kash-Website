@@ -81,3 +81,7 @@ header a:hover {
   color: #cccccc;
   font-weight: bold;
 }
+
+#showcase{
+    background-image: url('../images/img1.JPG');
+}
