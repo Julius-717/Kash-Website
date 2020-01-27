@@ -87,4 +87,5 @@ header a:hover {
     background-repeat: no-repeat 0 -400px;
     text-align: center;
     color: white;
+    min-height: 400px;
 }
