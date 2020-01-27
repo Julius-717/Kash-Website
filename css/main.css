@@ -2,3 +2,7 @@ body{
     background-color: aliceblue;
     font-family: 15px/1.5 Arial, Helvetica, sans-serif;
 }
+
+.container{
+    overflow: hidden;
+}
