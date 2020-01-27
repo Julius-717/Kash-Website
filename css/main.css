@@ -84,4 +84,5 @@ header a:hover {
 
 #showcase{
     background-image: url('../images/img1.JPG');
+    background-repeat: no-repeat 0 -400px;
 }
